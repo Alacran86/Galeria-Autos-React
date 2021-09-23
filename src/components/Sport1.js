@@ -3,8 +3,8 @@ import deportivo1 from '../images/sport1.jpg'
 
 const Sport1 = () => {
   return (
-    <div>
-      <img src={deportivo1} alt="" />
+    <div className="container">
+      <img src={deportivo1} alt="" className="imagen"/>
     </div>
   );
 }

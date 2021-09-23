@@ -3,8 +3,8 @@ import viejo1 from '../images/old1.jpg'
 
 const Old1 = () => {
   return (
-    <div>
-      <img src={viejo1} alt="" />
+    <div className="container">
+      <img src={viejo1} alt="" className="imagen"/>
     </div>
   );
 }
