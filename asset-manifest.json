@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Galeria-Autos-React/static/css/main.e409c132.chunk.css",
+    "main.js": "/Galeria-Autos-React/static/js/main.ef996d1f.chunk.js",
+    "main.js.map": "/Galeria-Autos-React/static/js/main.ef996d1f.chunk.js.map",
+    "runtime-main.js": "/Galeria-Autos-React/static/js/runtime-main.5c98f4b9.js",
+    "runtime-main.js.map": "/Galeria-Autos-React/static/js/runtime-main.5c98f4b9.js.map",
+    "static/js/2.5def3f34.chunk.js": "/Galeria-Autos-React/static/js/2.5def3f34.chunk.js",
+    "static/js/2.5def3f34.chunk.js.map": "/Galeria-Autos-React/static/js/2.5def3f34.chunk.js.map",
+    "index.html": "/Galeria-Autos-React/index.html",
+    "static/css/main.e409c132.chunk.css.map": "/Galeria-Autos-React/static/css/main.e409c132.chunk.css.map",
+    "static/js/2.5def3f34.chunk.js.LICENSE.txt": "/Galeria-Autos-React/static/js/2.5def3f34.chunk.js.LICENSE.txt",
+    "static/media/old1.3932b3c9.jpg": "/Galeria-Autos-React/static/media/old1.3932b3c9.jpg",
+    "static/media/old2.a14734f5.jpg": "/Galeria-Autos-React/static/media/old2.a14734f5.jpg",
+    "static/media/sport1.6308c5be.jpg": "/Galeria-Autos-React/static/media/sport1.6308c5be.jpg",
+    "static/media/sport2.c5efc76b.jpg": "/Galeria-Autos-React/static/media/sport2.c5efc76b.jpg",
+    "static/media/sport3.6aa085db.jpg": "/Galeria-Autos-React/static/media/sport3.6aa085db.jpg",
+    "static/media/sport4.1635094b.jpg": "/Galeria-Autos-React/static/media/sport4.1635094b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c98f4b9.js",
+    "static/js/2.5def3f34.chunk.js",
+    "static/css/main.e409c132.chunk.css",
+    "static/js/main.ef996d1f.chunk.js"
+  ]
+}
